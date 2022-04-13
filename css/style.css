@@ -1,12 +1,13 @@
 .fa-quote-left {
-    position: relative;
-    top: -50px;
-    left: 600px;
     color: grey;   
 }
 .fa-square {
-    position: relative;
-    top: -120px;
-    left: 600px;
     color: white;
+}
+
+.fa-2x{
+    display:block;
+    margin: auto;
+    text-align: center;
+    margin-top: -1.5em;   
 }
