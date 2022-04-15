@@ -11,3 +11,19 @@
     text-align: center;
     margin-top: -1.5em;   
 }
+.login {
+    background-color: #F8F9FA;
+}
+.accordion-button{
+    background-color: #343A40;
+}
+.accordion-collapse{
+    background-color: white;
+}
+.accordion-button:not(.collapsed){
+    background-color: #343A40;
+    color: white;
+}
+footer {
+    background-color: #343A40;
+}
