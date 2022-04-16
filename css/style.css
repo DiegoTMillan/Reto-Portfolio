@@ -1,3 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Righteous&family=Yanone+Kaffeesatz:wght@200;400;600&display=swap');
+body{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 1.4rem;
+}
+nav{
+    background-color: #343A40;
+}
+.nav-link, .form-control, .btn-outline-success {
+    font-family: 'Lato', sans-serif;
+}
+.navbar-brand{
+    font-family: 'Righteous', cursive;
+}
 .fa-quote-left {
     color: grey;   
 }
